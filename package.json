@@ -1,0 +1,13 @@
+{
+  "name"          : "itunes",
+  "description"   : "Control iTunes through node (Mac only)",
+  "url"           : "http://github.com/ryantenney/node-itunes/",
+  "author"        : "Ryan Tenney <ryan@10e.us>",
+  "dependencies"  : ["applescript"],
+  "main"          : "./lib/iTunes.js",
+  "version"       : "0.1.0",
+  "repository"    : {
+    "type" : "git",
+    "url" : "http://github.com/ryantenney/node-itunes.git"
+  }
+}
